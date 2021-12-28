@@ -1,1 +1,1 @@
-# azuredevops repository
+# azuredevops repository verfication
